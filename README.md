@@ -95,5 +95,4 @@ pip install -r requirements.txt
 
 ## Vídeo de Apresentação
 
-🎥 [Link do vídeo será adicionado aqui]
-EOF
+🎥 [Assista aqui](https://drive.google.com/file/d/17SVAqTTmymTYLsavhUvXRcq6MMSRqHx6/view?usp=sharing)
